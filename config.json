@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "mahirbetabappi@gmail.com",
-    "password": "6244mahi",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,16 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100094357823033",
-    "100072881080249",
-    "517122843",
-    "61568425442088",
-    "100060340563670",
-    "100089495797706",
-    "100077553281922",
-    "61550508942210",
-    "100001769955028",
-    "100065836820550"
+    "61582463874623"
   ],
   "whiteListMode": {
     "enable": false,
@@ -40,8 +31,8 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝘼𝙣𝙘𝙝𝙚𝙨𝙩𝙤𝙧 𝘼𝙞",
-  "prefix": "/",
+  "nickNameBot": "🌊 𝑰'𝑴 𝑮𝑨𝒀 🎀",
+  "prefix": "?",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Easirmahi:01200120mahi@anchestor.wmvrhcb.mongodb.net",
