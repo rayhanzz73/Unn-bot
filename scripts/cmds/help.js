@@ -19,7 +19,7 @@ module.exports = {
   onStart: async function ({ message, args, event, role }) {
     const { threadID } = event;
     const prefix = getPrefix(threadID);
-    const baseMsg = `━━━ ☠ 𝗔𝗡𝗖𝗛𝗘𝗦𝗧𝗢𝗥 𝗔𝗜 ☠ ━━━\n\n`;
+    const baseMsg = `━━━ ☠ 🌊 𝑰'𝑴 𝑮𝑨𝒀 🎀 ☠ ━━━\n\n`;
 
     if (args.length === 0) {
       let msg = baseMsg;
@@ -38,8 +38,8 @@ module.exports = {
         msg += `╰────────────◊\n\n`;
       }
 
-      msg += `📊 Total Commands: ${commands.size}\n`;
-      msg += `❓ Use ${prefix}help <cmd> for details on a command!`;
+      msg += `🪷 Total Commands: ${commands.size}\n`;
+      msg += `🌊 Use ${prefix}help <cmd> for details on a command!`;
 
       await message.reply(msg);
       return;
